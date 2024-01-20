@@ -1,0 +1,40 @@
+[Breakpoints]
+Count=0
+
+[Watches]
+Groups=1
+group0=Observadores
+
+[Watchgroup_Observadores]
+Count=0
+
+[OpenFiles]
+Module1=frm_ped_venda.php
+Module2=C:\Arquivos de programas\Embarcadero\RadPHP\3.0\rpcl\db.inc.php
+Module3=C:\Arquivos de programas\Embarcadero\RadPHP\3.0\rpcl\dbtables.inc.php
+Module4=C:\Arquivos de programas\Embarcadero\RadPHP\3.0\rpcl\rpcl.inc.php
+Module5=C:\Arquivos de programas\Embarcadero\RadPHP\3.0\rpcl\dbctrls.inc.php
+
+[frm_ped_venda.php]
+Line=36
+Position=45
+
+[C:\Arquivos de programas\Embarcadero\RadPHP\3.0\rpcl\db.inc.php]
+Line=2121
+Position=31
+
+[C:\Arquivos de programas\Embarcadero\RadPHP\3.0\rpcl\dbtables.inc.php]
+Line=482
+Position=11
+
+[C:\Arquivos de programas\Embarcadero\RadPHP\3.0\rpcl\rpcl.inc.php]
+Line=156
+Position=17
+
+[C:\Arquivos de programas\Embarcadero\RadPHP\3.0\rpcl\dbctrls.inc.php]
+Line=131
+Position=0
+
+[Status]
+OpenModule=frm_ped_venda.php
+
